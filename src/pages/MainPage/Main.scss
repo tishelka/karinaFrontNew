@@ -1,0 +1,35 @@
+.mainWrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+  width: 100%;
+
+  .mainForm {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+    .formGroup {
+      .formOption {
+        height: 30px;
+        margin-left: 5px;
+        border-radius: 10px;
+        border: 1px solid rgb(0, 0, 0);
+      }
+    }
+    .submitButton {
+      margin-top: 10px;
+      height: 40px;
+      background-color: rgb(32, 222, 108);
+      border: none;
+      border-radius: 10px;
+      cursor: pointer;
+    }
+  }
+  .foodSelection {
+    display: flex;
+    flex-direction: raw;
+    gap: 20px;
+  }
+}

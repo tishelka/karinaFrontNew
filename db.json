@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "email": "test@mail.ru",
+      "password": "12345678",
+      "sessionToken": "84b9fed3-9f9e-4676-b0f1-a0a644522976",
+      "id": 1
+    },
+    {
+      "email": "newtest@mail.ru",
+      "password": "11111",
+      "sessionToken": "88fc6b82-7310-4957-876c-04ab9f21c40c",
+      "id": 2
+    },
+    {
+      "email": "NEWtest@yahoo.com",
+      "password": "098765",
+      "sessionToken": "e2daad07-d82d-4dc1-9739-6914aa488eab",
+      "id": 3
+    }
+  ],
+  "foods": [
+    {
+      "title": "Яблоко",
+      "foodImg": "https://w7.pngwing.com/pngs/765/668/png-transparent-charlotte-varenye-apple-fruit-apple-fruit-natural-foods-food-fruit-thumbnail.png",
+      "calories": 47
+    },
+    {
+      "title": "Банан",
+      "foodImg": "https://img.freepik.com/free-photo/single-banana-isolated-on-a-white-background_839833-17794.jpg?size=626&ext=jpg&ga=GA1.1.1546980028.1701648000&semt=ais",
+      "calories": 96
+    },
+    {
+      "title": "Киви",
+      "foodImg": "https://png.pngtree.com/png-clipart/20201209/original/pngtree-kiwi-png-image_5643853.jpg",
+      "calories": 48
+    }
+  ],
+  "foodsEaten": [],
+  "caloriesLeft": []
+}

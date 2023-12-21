@@ -1,0 +1,25 @@
+.foodWrapper {
+  width: 250px;
+  height: fit-content;
+  padding-bottom: 10px;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  border-radius: 10px;
+
+  .foodImg {
+    width: 200px;
+    height: 200px;
+  }
+
+  .foodButton {
+    background-color: rgb(32, 222, 108);
+    border: none;
+    border-radius: 7px;
+    height: 25px;
+    cursor: pointer;
+    width: 90px;
+  }
+}
